@@ -1,6 +1,6 @@
 // Shortcut: command option k
-// Menu: Kill Notifications
-// Description: Kill pesky mac os notifications inspired by 240px-invisible-pixels @ https://tyler.io/240-invisible-pixels/
+// Menu: Kill Notification
+// Description: Kill pesky mac os notification inspired by 240px-invisible-pixels @ https://tyler.io/240-invisible-pixels/
 // Author: Gary McCann
 
 const robot = await npm ("robotjs");
